@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Malena\Downloads\AndroidYoutubeAPIPlayer\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="29ccfbddf99584bddbaab62c0cf50dcd1c564e43">
+        <dex dex="C:\Users\Malena\Downloads\AndroidYoutubeAPIPlayer\app\build\intermediates\pre-dexed\debug\YouTubeAndroidPlayerApi-450f141ba4ab37617aebfe08bffa3090e92c14dd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Malena\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="C:\Users\Malena\Downloads\AndroidYoutubeAPIPlayer\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-16c64dd2a6638663afcdac0e69cc6fcfe6a07bea.jar" />
+    </item>
+
+</items>
